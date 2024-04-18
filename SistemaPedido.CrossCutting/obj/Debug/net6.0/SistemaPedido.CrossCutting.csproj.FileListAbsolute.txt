@@ -1,0 +1,11 @@
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\bin\Debug\net6.0\SistemaPedido.CrossCutting.deps.json
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\bin\Debug\net6.0\SistemaPedido.CrossCutting.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\bin\Debug\net6.0\SistemaPedido.CrossCutting.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\SistemaPedido.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\SistemaPedido.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\SistemaPedido.CrossCutting.AssemblyInfo.cs
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\SistemaPedido.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\SistemaPedido.CrossCutting.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\refint\SistemaPedido.CrossCutting.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\SistemaPedido.CrossCutting.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.CrossCutting\obj\Debug\net6.0\ref\SistemaPedido.CrossCutting.dll

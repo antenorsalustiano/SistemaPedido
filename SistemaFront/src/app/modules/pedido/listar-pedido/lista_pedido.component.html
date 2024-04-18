@@ -1,0 +1,36 @@
+<main>
+  <div class="container bg-white">
+    <h2 class="text-center mb-4">Listagem de Pedidos</h2>
+
+    <div class="table-responsive">
+      <table class="table table-bordered table-warning">
+        <thead>
+          <tr>
+            <th scope="col">Código</th>
+            <th scope="col">Fornecedor</th>
+            <th scope="col">Valor Total</th>
+            <th scope="col">Quantidade</th>
+            <th scope="col">Produto</th>
+            <th scope="col">Data do Pedido</th>
+            <th scope="col">Ação</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let pedido of pedidos">
+            <td>{{ pedido.pedidoId }}</td>
+            <td>{{ pedido.razaoSocial }}</td>
+            <td>{{ pedido.valorTotalPedido | currency:'BRL' }}</td>
+            <td>{{ pedido.quantidadeProdutos }}</td>
+            <td>{{ pedido.produtoDescricao }}</td>
+            <td>{{ pedido.dataPedido | date:'dd/MM/yyyy' }}</td>
+            <td>
+              <button class="btn btn-outline-danger btn-sm" (click)="excluir(pedido.pedidoId)">
+                <fa-icon [icon]="faTrash"></fa-icon>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</main>

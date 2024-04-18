@@ -1,0 +1,36 @@
+<main>
+  <div class="container bg-white">
+    <form class="row g-3 w-50 m-auto">
+      <h2>{{titulo}}</h2>
+      <div class="mb-3">
+        <label for="fornecedor" class="form-label">Fornecedor:</label>
+        <span style="color: #FF0000;">*</span>
+        <input type="text" class="form-control" id="fornecedor" name="nome" [(ngModel)]="nome">
+      </div>
+      <div class="mb-3">
+        <label for="produto" class="form-label">Produto:</label>
+        <span style="color: #FF0000;">*</span>
+        <input type="text" class="form-control" id="produto" name="produto" [(ngModel)]="produto">
+      </div>
+      <div class="mb-3">
+        <label for="quantidade" class="form-label">Quantidade:</label>
+        <span style="color: #FF0000;">*</span>
+        <input type="number" class="form-control" id="quantidade" name="quantidade" [(ngModel)]="quantidade">
+      </div>
+      <div class="mb-3">
+        <label for="dataHora" class="form-label">Data e Hora:</label>
+        <span style="color: #FF0000;">*</span>
+        <input type="datetime-local" class="form-control" id="dataHora" name="dataPedido" [(ngModel)]="dataPedido">
+      </div>
+      <div class="alert alert-info" id="alerta" role="alert" *ngIf="display_success">
+        Cadastrado com sucesso!
+      </div>
+      <div class="alert alert-danger" id="alerta" role="alert" *ngIf="display_error">
+        Preencha todos os dados obrigatórios (*)!
+      </div>
+      <button type="button" id="enviar" class="btn btn-primary w-25" (click)="cadastroPedido()">{{btnSalvar}}</button>
+      <br>
+      <button type="submit" class="btn btn-danger w-25" (click)="limpar()">Limpar</button>
+    </form>
+  </div>
+</main>

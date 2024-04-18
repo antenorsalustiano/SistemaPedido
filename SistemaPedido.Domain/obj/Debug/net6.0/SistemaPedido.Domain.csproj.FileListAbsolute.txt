@@ -1,0 +1,11 @@
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\bin\Debug\net6.0\SistemaPedido.Domain.deps.json
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\bin\Debug\net6.0\SistemaPedido.Domain.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\bin\Debug\net6.0\SistemaPedido.Domain.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\SistemaPedido.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\SistemaPedido.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\SistemaPedido.Domain.AssemblyInfo.cs
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\SistemaPedido.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\SistemaPedido.Domain.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\refint\SistemaPedido.Domain.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\SistemaPedido.Domain.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Domain\obj\Debug\net6.0\ref\SistemaPedido.Domain.dll

@@ -1,0 +1,38 @@
+<main>
+  <div class="container bg-white">
+    <h1>Listagem de Fornecedores</h1>
+    
+    <button type="button" routerLink="/fornecedor/-1" class="btn btn-primary w-15 mb-3">Novo</button>
+    
+    <table class="table table-bordered table-warning">
+      <thead>
+        <tr>
+          <th scope="col">ID</th>
+          <th scope="col">Nome Fornecedor</th>
+          <th scope="col">CNPJ</th>
+          <th scope="col">UF</th>
+          <th scope="col">E-mail</th>
+         
+          <th scope="col">Pedidos</th>
+          <th scope="col">Editar</th>
+          <th scope="col">Excluir</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let fornecedor of fornecedor">
+          <td>{{ fornecedor.fornecedorId }}</td>
+          <td>{{ fornecedor.nomeContato }}</td>
+          <td>{{ fornecedor.cnpj }}</td>
+          <td>{{ fornecedor.uf }}</td>
+          <td>{{ fornecedor.emailContato }}</td>
+          
+          <td>
+            <button type="button" routerLink="/lista-pedido/" class="btn btn-primary w-15">Pedidos</button>
+          </td>
+          <td><fa-icon [icon]="faEdit" (click)="editar(fornecedor.fornecedorId)"></fa-icon></td>
+          <td><fa-icon [icon]="faTrash" (click)="excluir(fornecedor.fornecedorId)"></fa-icon></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</main>

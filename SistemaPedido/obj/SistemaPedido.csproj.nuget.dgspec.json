@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido\\SistemaPedido.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Data\\SistemaPedido.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Data\\SistemaPedido.Data.csproj",
+        "projectName": "SistemaPedido.Data",
+        "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Data\\SistemaPedido.Data.csproj",
+        "packagesPath": "C:\\Users\\Eu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj",
+        "projectName": "SistemaPedido.Domain",
+        "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj",
+        "packagesPath": "C:\\Users\\Eu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.IoC\\SistemaPedido.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.IoC\\SistemaPedido.IoC.csproj",
+        "projectName": "SistemaPedido.IoC",
+        "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.IoC\\SistemaPedido.IoC.csproj",
+        "packagesPath": "C:\\Users\\Eu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Data\\SistemaPedido.Data.csproj": {
+                "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Data\\SistemaPedido.Data.csproj"
+              },
+              "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj"
+              },
+              "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\SistemaPedido.Service.csproj": {
+                "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\SistemaPedido.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\SistemaPedido.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\SistemaPedido.Service.csproj",
+        "projectName": "SistemaPedido.Service",
+        "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\SistemaPedido.Service.csproj",
+        "packagesPath": "C:\\Users\\Eu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Domain\\SistemaPedido.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido\\SistemaPedido.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido\\SistemaPedido.csproj",
+        "projectName": "SistemaPedido",
+        "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido\\SistemaPedido.csproj",
+        "packagesPath": "C:\\Users\\Eu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.IoC\\SistemaPedido.IoC.csproj": {
+                "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.IoC\\SistemaPedido.IoC.csproj"
+              },
+              "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\SistemaPedido.Service.csproj": {
+                "projectPath": "C:\\Projetos\\Projeto Pessoal\\SistemaPedido\\SistemaPedido\\SistemaPedido.Service\\SistemaPedido.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

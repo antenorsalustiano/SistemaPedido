@@ -1,0 +1,17 @@
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.csproj.AssemblyReference.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.AssemblyInfoInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.AssemblyInfo.cs
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\bin\Debug\net6.0\SistemaPedido.Data.deps.json
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\bin\Debug\net6.0\SistemaPedido.Data.runtimeconfig.json
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\bin\Debug\net6.0\SistemaPedido.Data.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\bin\Debug\net6.0\SistemaPedido.Data.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\bin\Debug\net6.0\SistemaPedido.Domain.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\bin\Debug\net6.0\SistemaPedido.Domain.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.csproj.CopyComplete
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\refint\SistemaPedido.Data.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\SistemaPedido.Data.genruntimeconfig.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Data\obj\Debug\net6.0\ref\SistemaPedido.Data.dll

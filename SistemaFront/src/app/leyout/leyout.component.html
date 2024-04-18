@@ -1,0 +1,35 @@
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container">
+        <a class="navbar-brand" routerLink="/home">Sistema de Pedido</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" routerLink="/home" routerLinkActive="active">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" routerLink="/lista-produto" routerLinkActive="active">Produtos</a>
+            </li>
+           
+            <li class="nav-item">
+              <a class="nav-link" routerLink="/lista-fornecedor" routerLinkActive="active">Fornecedores</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <div class="container">
+      <router-outlet></router-outlet>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <p class="text-center mb-0">Developed by <strong>Antenor Salustiano</strong></p>
+    </div>
+  </footer>
+  

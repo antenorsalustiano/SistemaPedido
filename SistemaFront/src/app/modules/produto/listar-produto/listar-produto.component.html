@@ -1,0 +1,35 @@
+<main>
+  <div class="container bg-white">
+    <button type="button" routerLink="/produto/-1" class="btn btn-primary mb-3">Novo</button>
+
+    <table class="table table-bordered table-warning">
+      <thead>
+        <tr>
+          <th scope="col">Id</th>
+          <th scope="col">Descrição</th>
+          <th scope="col">Código</th>
+          <th scope="col">Valor</th>
+          <th scope="col">Data de Cadastro</th>
+          <th scope="col">Ação</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let produto of produtos; let i = index">
+          <td>{{produto.produtoId}}</td>
+          <td>{{produto.descricao}}</td>
+          <td>{{produto.codigo}}</td>
+          <td>{{produto.valor | currency: 'BRL'}}</td>
+          <td>{{produto.dataCadastro | date: 'dd/MM/yyyy'}}</td>
+          <td>
+            <button class="btn btn-outline-primary btn-sm" (click)="editar(produto.produtoId)">
+              <fa-icon [icon]="faEdit"></fa-icon>
+            </button>
+            <button class="btn btn-outline-danger btn-sm" (click)="excluir(produto.produtoId)">
+              <fa-icon [icon]="faTrash"></fa-icon>
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</main>

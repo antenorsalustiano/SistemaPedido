@@ -1,0 +1,28 @@
+<main>
+    <div class="container bg-white">
+      <h2 class="mb-4 text-center">Cadastro de Fornecedor</h2>
+      
+      <form class="row g-3 mx-auto" style="max-width: 600px;">
+        <div class="col-md-6">
+          <label for="nomeContato" class="form-label">Nome do Fornecedor</label>
+          <input type="text" class="form-control" id="inputNome" [(ngModel)]="nomeContato" name="nomeContato" required>
+        </div>
+        <div class="col-md-6">
+          <label for="cnpj" class="form-label">CNPJ</label>
+          <input type="text" class="form-control" id="cnpj" [(ngModel)]="cnpj" name="cnpj" required>
+        </div>
+        <div class="col-md-6">
+          <label for="uf" class="form-label">UF</label>
+          <input type="text" class="form-control" id="uf" [(ngModel)]="uf" name="uf" required>
+        </div>
+        <div class="col-md-6">
+          <label for="emailContato" class="form-label">E-mail de Contato</label>
+          <input type="email" class="form-control" id="emailContato" [(ngModel)]="emailContato" name="emailContato" required>
+        </div>
+        <div class="col-12 text-center">
+          <button type="submit" class="btn btn-primary">Cadastrar</button>
+        </div>
+      </form>
+    </div>
+  </main>
+  

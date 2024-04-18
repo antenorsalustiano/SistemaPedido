@@ -1,0 +1,15 @@
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\bin\Debug\net6.0\SistemaPedido.Service.deps.json
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\bin\Debug\net6.0\SistemaPedido.Service.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\bin\Debug\net6.0\SistemaPedido.Service.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.AssemblyInfoInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.AssemblyInfo.cs
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\refint\SistemaPedido.Service.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\ref\SistemaPedido.Service.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\bin\Debug\net6.0\SistemaPedido.Domain.dll
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\bin\Debug\net6.0\SistemaPedido.Domain.pdb
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.csproj.AssemblyReference.cache
+C:\Projetos\Projeto Pessoal\SistemaPedido\SistemaPedido\SistemaPedido.Service\obj\Debug\net6.0\SistemaPedido.Service.csproj.CopyComplete
